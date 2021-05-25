@@ -1,2 +1,3 @@
 # Price Table
-_A simple Price Table example_
+
+_A simple price table example_
